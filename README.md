@@ -1,4 +1,4 @@
-### virtual-locker
+### virtual-locker [![build status](https://travis-ci.org/WebReflection/virtual-locker.svg)](https://travis-ci.org/WebReflection/virtual-locker)
 
 A simple way to virtually block some path through a generic object.
 This does not prevent object owner to change values, it's just an object to path/string relation with a simple conflict resolution.
