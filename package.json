@@ -1,0 +1,25 @@
+{
+  "name": "virtual-locker",
+  "version": "1.0.0",
+  "description": "A simple way to virtually block some path through a generic object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebReflection/virtual-locker.git"
+  },
+  "keywords": [
+    "relation",
+    "path",
+    "object",
+    "string"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebReflection/virtual-locker/issues"
+  },
+  "homepage": "https://github.com/WebReflection/virtual-locker#readme"
+}
